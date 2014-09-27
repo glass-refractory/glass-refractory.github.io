@@ -1,6 +1,7 @@
 html {
 	height: 100%;
 	width: 100%;
+	font-family: "Crimson Text", serif;
 }
 
 body {
@@ -30,4 +31,21 @@ img {
 	width: 100%;
 	display: table;
 	margin: auto;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 12pt;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	width: 400px;
+}
+
+p {
+	width: 400px;
+	display: table;
+	margin-left: auto;
+	margin-right: auto;
 }
